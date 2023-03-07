@@ -42,11 +42,17 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 ### 🗺️ Cartes
 
-- Carte de France métropolitaine, choroplèthe par département (catégories ou dégradé)
-- Carte de France métropolitaine, avec cercles proportionnels par département
-- Carte de France + Outre-mer, choroplèthe par département (catégories ou dégradé)
-- Carte de France + Outre-mer, avec cercles proportionnels par département
-- Globe interactif
+- [Carte de France, choroplèthe par département](https://github.com/EchosGraphiques/recette-carte-france-choroplethe)
+	- Au choix : France métropolitaine avec ou sans Outre-mer
+	- Au choix : catégories (données discrètes) ou classes (données continues)
+- Carte de France, avec cercles proportionnels
+	- Au choix : France métropolitaine avec ou sans Outre-mer
+	- Au choix : par département ou sur une sélection de villes
+- Carte de l’UE, choroplèthe par pays
+	- Au choix : catégories (données discrètes) ou classes (données continues)
+- Carte des États-Unis, choroplèthe par état
+	- Au choix : catégories (données discrètes) ou classes (données continues)
+- Globe interactif avec cercles proportionnels par pays
 
 ### 📈 Autres embeds 
 - Courbe(s) interactive(s), simples ou empilées
