@@ -47,7 +47,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 	- Au choix : catégories (données discrètes) ou classes (données continues)
 - [Carte de France, avec cercles proportionnels](https://github.com/EchosGraphiques/recette-carte-france-cercles)
 	- Au choix : France métropolitaine avec ou sans Outre-mer
-	- Au choix : par département _(ou sur une sélection de villes => TODO)_
+	- Au choix : par département _[ou sur une sélection de villes => TODO]_
 - Carte de l’UE, choroplèthe par pays
 	- Au choix : catégories (données discrètes) ou classes (données continues)
 - Carte des États-Unis, choroplèthe par état
