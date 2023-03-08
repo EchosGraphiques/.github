@@ -52,7 +52,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 	- Au choix : catégories (données discrètes) ou classes (données continues)
 - Carte des États-Unis, choroplèthe par état
 	- Au choix : catégories (données discrètes) ou classes (données continues)
-- Globe interactif avec cercles proportionnels par pays
+- [Globe interactif avec cercles proportionnels par pays](https://github.com/EchosGraphiques/recette-globe)
 
 ### 📈 Autres embeds 
 - Courbe(s) interactive(s), simples ou empilées
