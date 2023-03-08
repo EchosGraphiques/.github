@@ -57,7 +57,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 ### 📈 Autres embeds 
 - Courbe(s) interactive(s), simples ou empilées
 - Tableau simple
-- Quiz
+- [Quiz](https://github.com/EchosGraphiques/recette-quiz)
 
 ### 🖥️ Pleine page
 - Tableau personnalisable et triable
