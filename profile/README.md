@@ -55,7 +55,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 - [Globe interactif avec cercles proportionnels par pays](https://github.com/EchosGraphiques/recette-globe)
 
 ### 📈 Autres embeds 
-- Courbe(s) interactive(s), simples ou empilées
+- [Courbe(s) interactive(s)](https://github.com/EchosGraphiques/recette-courbes)
 - Tableau simple
 - [Quiz](https://github.com/EchosGraphiques/recette-quiz)
 
