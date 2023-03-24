@@ -95,3 +95,10 @@ Pour une documentation complète des composants d’interface disponibles (titra
 - Accélérer/ralentir une vidéo \
 	`ffmpeg -i input_video.mp4 -filter:v "setpts=0.5*PTS" output_video.mp4` \
 	*Ici, 0.5 signifie que la vitesse de la vidéo est multipliée par 2 ; un nombre supérieur à 1 a pour effet de ralentir la vidéo, avec un risque de saccade.*
+
+### Cartographie
+
+*[MapShaper](https://github.com/mbloch/mapshaper) doit être installé (`npm i -g mapshaper`).*
+
+- Simplifier un fichier GeoJSON \
+	`mapshaper input.geojson -simplify 25% -o output.geojson`
