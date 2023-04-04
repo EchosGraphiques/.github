@@ -56,6 +56,8 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 ### 📈 Autres embeds 
 - [Courbe(s) interactive(s)](https://github.com/EchosGraphiques/recette-courbes)
+- [Treemap](https://github.com/EchosGraphiques/recette-treemap)
+	- Au choix : rectangulaire (classique) ou en partition de Voronoï (circulaire ou polygonale)
 - Tableau simple
 - [Quiz](https://github.com/EchosGraphiques/recette-quiz)
 
