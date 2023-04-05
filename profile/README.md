@@ -20,6 +20,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 *Note : une version récente de [Node.js](https://nodejs.org) (>= 16) doit être installée.*
 
+
 ## 📄 Modèles
 
 - [Embed vierge](https://github.com/EchosGraphiques/embed-template)
@@ -38,6 +39,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 	npm install
 	```
 
+
 ## 🧑‍🍳 Recettes
 
 ### 🗺️ Cartes
@@ -54,15 +56,19 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 	- Au choix : catégories (données discrètes) ou classes (données continues)
 - [Globe interactif avec cercles proportionnels par pays](https://github.com/EchosGraphiques/recette-globe)
 
-### 📈 Autres embeds 
+### 📈 Graphiques
 - [Courbe(s) interactive(s)](https://github.com/EchosGraphiques/recette-courbes)
+- [Graphique en sucettes](https://github.com/EchosGraphiques/recette-lollipop) (lollipop)
 - [Treemap](https://github.com/EchosGraphiques/recette-treemap)
 	- Au choix : rectangulaire (classique) ou en partition de Voronoï (circulaire ou polygonale)
-- Tableau simple
+
+### Autres embeds
 - [Quiz](https://github.com/EchosGraphiques/recette-quiz)
+- Tableau simple
 
 ### 🖥️ Pleine page
 - Tableau personnalisable et triable
+
 
 ## 🌳 Formats récurrents
 
@@ -72,9 +78,11 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 - [Classement des meilleures écoles de commerce et d’ingénieurs](https://github.com/EchosGraphiques/embed-startxchange)
 
+
 ## 🏗️ Composants d’interface
 
 Pour une documentation complète des composants d’interface disponibles (titraille, boutons, tooltip, slider, etc.), voir [@EchosGraphiques/ui-components](https://github.com/EchosGraphiques/ui-components).
+
 
 ## Commandes utiles
 
