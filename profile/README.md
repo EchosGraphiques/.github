@@ -74,7 +74,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 - [Classement des meilleurs cabinets de recrutement](https://github.com/EchosGraphiques/grand-format-cabinets-recrutement)
 
-- [Classement des champions de la croissance](https://github.com/EchosGraphiques/grand-format-champions-croissance)
+- [Classement des champions de la croissance](https://github.com/EchosGraphiques/classement-champions-croissance)
 
 - [Classement des meilleures écoles de commerce et d’ingénieurs](https://github.com/EchosGraphiques/embed-startxchange)
 
