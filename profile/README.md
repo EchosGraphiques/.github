@@ -76,11 +76,20 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 - [Classement des meilleurs cabinets de recrutement](https://github.com/EchosGraphiques/classement-cabinets-recrutement)
 - [Classement des Champions de la croissance](https://github.com/EchosGraphiques/classement-champions-croissance)
 - [Classement des meilleures écoles de commerce et d’ingénieurs](https://github.com/EchosGraphiques/embed-startxchange)
+- [Tableau de bord de l’énergie](https://github.com/EchosGraphiques/embeds-energie)
 
+
+## 🗄️ API
+
+Une API permettant d’accéder à la demande aux dernières données à jour dans différents domaines (emploi, énergie, Covid-19) est disponible. Voir la [documentation](https://github.com/EchosGraphiques/data-api).
 
 ## 🏗️ Composants d’interface
 
 Pour une documentation complète des composants d’interface disponibles (titraille, boutons, tooltip, slider, etc.), voir [@EchosGraphiques/ui-components](https://github.com/EchosGraphiques/ui-components).
+
+## ⚙️ Cloud Functions
+
+- [`fetchDataEnergy()`](https://github.com/EchosGraphiques/gcf-energie): mise à jour des données du [tableau de bord de l’énergie](https://github.com/EchosGraphiques/embeds-energie)
 
 
 ## Commandes utiles
