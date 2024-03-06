@@ -90,6 +90,7 @@ Pour une documentation complète des composants d’interface disponibles (titra
 ## ⚙️ Cloud Functions
 
 - [`fetchDataEnergy()`](https://github.com/EchosGraphiques/gcf-energie): mise à jour des données du [tableau de bord de l’énergie](https://github.com/EchosGraphiques/embeds-energie)
+- [`fetchDataEmployment()`](https://github.com/EchosGraphiques/gcf-employment): mise à jour des données sur l’emploi
 
 
 ## Commandes utiles
