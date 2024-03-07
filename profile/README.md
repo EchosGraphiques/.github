@@ -83,9 +83,11 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 Une API permettant d’accéder à la demande aux dernières données à jour dans différents domaines (emploi, énergie, Covid-19) est disponible. Voir la [documentation](https://github.com/EchosGraphiques/data-api).
 
+
 ## 🏗️ Composants d’interface
 
 Pour une documentation complète des composants d’interface disponibles (titraille, boutons, tooltip, slider, etc.), voir [@EchosGraphiques/ui-components](https://github.com/EchosGraphiques/ui-components).
+
 
 ## ⚙️ Cloud Functions
 
@@ -93,7 +95,11 @@ Pour une documentation complète des composants d’interface disponibles (titra
 - [`fetchDataEmployment()`](https://github.com/EchosGraphiques/gcf-employment): mise à jour des données sur l’emploi
 
 
-## Commandes utiles
+## 🧑‍💻 Commandes utiles
+
+### Outils en ligne de commande
+
+Voir [cli-tools](https://github.com/EchosGraphiques/cli-tools).
 
 ### Manipulation de médias
 
