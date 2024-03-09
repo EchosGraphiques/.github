@@ -64,6 +64,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 ### Autres embeds
 - [Quiz](https://github.com/EchosGraphiques/recette-quiz)
+- [XXXXX en X chiffres](https://github.com/EchosGraphiques/recette-chiffres)
 - Tableau simple
 
 ### 🖥️ Pleine page
