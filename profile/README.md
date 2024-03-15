@@ -52,7 +52,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 	- Au choix : par département ou sur une sélection de communes
 - Carte de l’UE, choroplèthe par pays
 	- Au choix : catégories (données discrètes) ou classes (données continues)
-- Carte des États-Unis, choroplèthe par état
+- Carte des États-Unis, choroplèthe par État
 	- Au choix : catégories (données discrètes) ou classes (données continues)
 - [Globe interactif avec cercles proportionnels par pays](https://github.com/EchosGraphiques/recette-globe)
 
