@@ -75,6 +75,7 @@ o888ooooood8 `Y8bod8P' 8""888P'    o888ooooood8 `Y8bod8P' o888o o888o `Y8bod8P' 
 
 - [Carrousel du gouvernement](https://github.com/EchosGraphiques/embed-carrousel-gouvernement)
 - [Tableau de bord de l’énergie](https://github.com/EchosGraphiques/embeds-energie)
+- [Impact sur la Bourse des résultats semestriels](https://github.com/EchosGraphiques/embed-resultats-semestriels)
 - [La Rétro des Échos](https://github.com/EchosGraphiques/retro-2023)
 - [Classement des meilleurs cabinets de recrutement](https://github.com/EchosGraphiques/classement-cabinets-recrutement)
 - [Classement des Champions de la croissance](https://github.com/EchosGraphiques/classement-champions-croissance)
@@ -94,6 +95,7 @@ Pour une documentation complète des composants d’interface disponibles (titra
 
 - [`fetchDataEnergy()`](https://github.com/EchosGraphiques/gcf-energie): mise à jour des données du [tableau de bord de l’énergie](https://github.com/EchosGraphiques/embeds-energie)
 - [`fetchDataEmployment()`](https://github.com/EchosGraphiques/gcf-emploi): mise à jour des données sur l’emploi
+- [`updateDataCompanies()`](https://github.com/EchosGraphiques/gcf-resultats-semestriels): mise à jour des données d’impact sur la Bourse des résultats semestriels/annuels des entreprises
 
 
 ## 🧑‍💻 Commandes utiles
